@@ -1,4 +1,10 @@
 {
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
   "ttnsendpoint": [
     {
       "id" : 1,
