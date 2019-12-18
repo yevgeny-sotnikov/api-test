@@ -11,7 +11,7 @@
       "date": "2019-11-11 19:11",
       "ttns": [
         {
-          "id": 20450189440266,
+          "id": 20400148601738,
           "shippingmethod": "novaposhta",
           "items": [
             {
@@ -23,13 +23,13 @@
             {
               "id": 753325223,
               "cell": "15.1.21",
-              "name": "led лампа",
+              "name": "Светолиодная лампа",
               "quantity": 30
             },
             {
               "id": 753325224,
               "cell": "1.1.31",
-              "name": " iphone 17 white ",
+              "name": "iphone SE",
               "quantity": 1
             }
           ]
